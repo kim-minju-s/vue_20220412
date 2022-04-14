@@ -7,7 +7,8 @@
     <router-link to="/mqtt">Mqtt</router-link> |
     <router-link to="/join">Join</router-link> |
     <router-link to="/login">Login</router-link> |
-    <router-link to="/mypage">Mypage</router-link>
+    <router-link to="/mypage">Mypage</router-link> |
+    <router-link to="/buy">Buy</router-link> |
     <hr />
 
     <router-view></router-view>
